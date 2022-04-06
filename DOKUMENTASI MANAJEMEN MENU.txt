@@ -1,0 +1,10 @@
+http://localhost/manajemenmenu/login 
+email = zaela13579@gmail.com
+password = 12345
+
+end point API :
+http://localhost/manajemenmenu/api/users/login (POST)
+http://localhost/manajemenmenu/api/menu (GET)
+http://localhost/manajemenmenu/api/menu/addMenu (POST)
+http://localhost/manajemenmenu/api/menu/editMenu/9 (PUT)
+http://localhost/manajemenmenu/api/menu/menu/7 (DELETE)
